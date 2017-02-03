@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 7dac5a8e46c9d4c45b490952a6f99976
+timeCreated: 1462457522
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AircraftWingsPropeller
+    100002: AircraftWingsPropellerAileronLeft
+    100004: AircraftWingsPropellerAileronRight
+    100006: AircraftWingsPropellerBladesLeft
+    100008: AircraftWingsPropellerBladesRight
+    100010: AircraftWingsPropellerBlurLeft
+    100012: AircraftWingsPropellerBlurRight
+    100014: AircraftWingsPropellerConeLeft
+    100016: AircraftWingsPropellerConeRight
+    100018: AircraftWingsPropellerDoorALeft
+    100020: AircraftWingsPropellerDoorARight
+    100022: AircraftWingsPropellerDoorBLeft
+    100024: AircraftWingsPropellerDoorBRight
+    100026: AircraftWingsPropellerFlapLeft
+    100028: AircraftWingsPropellerFlapRight
+    100030: AircraftWingsPropellerGearFront
+    100032: AircraftWingsPropellerGearLeft
+    100034: AircraftWingsPropellerGearRight
+    100036: //RootNode
+    400000: AircraftWingsPropeller
+    400002: AircraftWingsPropellerAileronLeft
+    400004: AircraftWingsPropellerAileronRight
+    400006: AircraftWingsPropellerBladesLeft
+    400008: AircraftWingsPropellerBladesRight
+    400010: AircraftWingsPropellerBlurLeft
+    400012: AircraftWingsPropellerBlurRight
+    400014: AircraftWingsPropellerConeLeft
+    400016: AircraftWingsPropellerConeRight
+    400018: AircraftWingsPropellerDoorALeft
+    400020: AircraftWingsPropellerDoorARight
+    400022: AircraftWingsPropellerDoorBLeft
+    400024: AircraftWingsPropellerDoorBRight
+    400026: AircraftWingsPropellerFlapLeft
+    400028: AircraftWingsPropellerFlapRight
+    400030: AircraftWingsPropellerGearFront
+    400032: AircraftWingsPropellerGearLeft
+    400034: AircraftWingsPropellerGearRight
+    400036: //RootNode
+    2300000: AircraftWingsPropeller
+    2300002: AircraftWingsPropellerAileronLeft
+    2300004: AircraftWingsPropellerAileronRight
+    2300006: AircraftWingsPropellerBladesLeft
+    2300008: AircraftWingsPropellerBladesRight
+    2300010: AircraftWingsPropellerBlurLeft
+    2300012: AircraftWingsPropellerBlurRight
+    2300014: AircraftWingsPropellerConeLeft
+    2300016: AircraftWingsPropellerConeRight
+    2300018: AircraftWingsPropellerDoorALeft
+    2300020: AircraftWingsPropellerDoorARight
+    2300022: AircraftWingsPropellerDoorBLeft
+    2300024: AircraftWingsPropellerDoorBRight
+    2300026: AircraftWingsPropellerFlapLeft
+    2300028: AircraftWingsPropellerFlapRight
+    2300030: AircraftWingsPropellerGearFront
+    2300032: AircraftWingsPropellerGearLeft
+    2300034: AircraftWingsPropellerGearRight
+    2300036: //RootNode
+    3300000: AircraftWingsPropeller
+    3300002: AircraftWingsPropellerAileronLeft
+    3300004: AircraftWingsPropellerAileronRight
+    3300006: AircraftWingsPropellerBladesLeft
+    3300008: AircraftWingsPropellerBladesRight
+    3300010: AircraftWingsPropellerBlurLeft
+    3300012: AircraftWingsPropellerBlurRight
+    3300014: AircraftWingsPropellerConeLeft
+    3300016: AircraftWingsPropellerConeRight
+    3300018: AircraftWingsPropellerDoorALeft
+    3300020: AircraftWingsPropellerDoorARight
+    3300022: AircraftWingsPropellerDoorBLeft
+    3300024: AircraftWingsPropellerDoorBRight
+    3300026: AircraftWingsPropellerFlapLeft
+    3300028: AircraftWingsPropellerFlapRight
+    3300030: AircraftWingsPropellerGearFront
+    3300032: AircraftWingsPropellerGearLeft
+    3300034: AircraftWingsPropellerGearRight
+    3300036: //RootNode
+    4300000: AircraftWingsPropellerDoorBRight
+    4300002: AircraftWingsPropellerDoorARight
+    4300004: AircraftWingsPropellerDoorBLeft
+    4300006: AircraftWingsPropellerDoorALeft
+    4300008: AircraftWingsPropellerConeRight
+    4300010: AircraftWingsPropellerConeLeft
+    4300012: AircraftWingsPropellerAileronRight
+    4300014: AircraftWingsPropellerFlapRight
+    4300016: AircraftWingsPropellerFlapLeft
+    4300018: AircraftWingsPropellerAileronLeft
+    4300020: AircraftWingsPropellerBladesRight
+    4300022: AircraftWingsPropellerBladesLeft
+    4300024: AircraftWingsPropeller
+    4300026: AircraftWingsPropellerBlurRight
+    4300028: AircraftWingsPropellerBlurLeft
+    4300030: AircraftWingsPropellerGearFront
+    4300032: AircraftWingsPropellerGearLeft
+    4300034: AircraftWingsPropellerGearRight
+    4300036: AirplanePropellerBlur
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
