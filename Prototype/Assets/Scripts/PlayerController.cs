@@ -48,6 +48,10 @@ public class PlayerController : MonoBehaviour {
 	void Update () {
 
 		//INPUTS
+		if(Input.GetMouseButton (1)){
+			Debug.Log ("Click");
+			Application.CaptureScreenshot ("jjowers_prototype.png");
+		}
 		if (Input.GetMouseButton (0)) {
 			ChangeGravity ();
 		}
