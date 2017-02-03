@@ -6,6 +6,9 @@ TagManager:
   tags:
   - LevelBounds
   - TakeOffPlatform
+  - Sphere
+  - Wall
+  - Plane
   layers:
   - Default
   - TransparentFX
@@ -16,7 +19,7 @@ TagManager:
   - 
   - 
   - Boids
-  - 
+  - Ground
   - 
   - 
   - 
